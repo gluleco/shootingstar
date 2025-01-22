@@ -1,0 +1,8 @@
+site_name: 尽调常用指标数据库
+theme: flatly
+docs_dir: docs
+site_dir: public
+nav:
+    - 首页 : index.md
+    - 功能模块速查表 : page2.md
+    - 市场数据相关表 : page3.md
